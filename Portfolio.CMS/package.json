@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "famous": "^0.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-autoprefixer": "^2.3.1"
+  },
+  "author": "Jesse Andrews",
+  "license": "ISC"
+}
